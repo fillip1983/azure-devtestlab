@@ -6,7 +6,7 @@
             "value":""
         },
         "VMSize":{  
-            "value":""
+            "value":"Standard_B12ms"
         },
         "VMStorageType":{  
             "value":""
@@ -18,7 +18,7 @@
             "value":""
         },
         "nodeCount": {
-            "value": 1
+            "value": 25
         },
         "seleniumServerStandaloneJarFile": {
             "value": ""
